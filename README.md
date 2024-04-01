@@ -1,4 +1,6 @@
 # Study Notion - EdTech Website
+https://edtech-pratham.netlify.app/
+
 
 Study Notion is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) web application aimed at providing educational resources and tools for students and educators.
 
