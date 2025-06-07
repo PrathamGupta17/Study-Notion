@@ -56,8 +56,6 @@ Study Notion is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) web a
 
 ## The server will be running at http://localhost:5000.
 
-## With this guide, users can start both the server and frontend separately as required.
-
 
 
    
